@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "php",
+    "startCommand": "php artisan serve --host=0.0.0.0 --port=$PORT",
+    "installCommand": "composer install --no-interaction --prefer-dist"
+  }
+}

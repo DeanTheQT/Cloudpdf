@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "node",
+    "startCommand": "vite preview --port $PORT",
+    "installCommand": "npm install"
+  }
+}
